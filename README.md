@@ -2,9 +2,10 @@
 
 > Portfolio project: A multi-criteria scoring model to evaluate firm-level supply chain low-carbon transition feasibility, with bottleneck diagnosis and econometric validation. Built with R / RStudio.
 
-[![R]([https://img.shields.io/badge/R-4.5%2B-276DC3?logo=r&logoColor=white](https://img.shields.io/badge/R-4.5%2B-276DC3?logo=r&logoColor=white))]()
-[![License: MIT]([https://img.shields.io/badge/License-MIT-yellow.svg](https://img.shields.io/badge/License-MIT-yellow.svg))]([https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT))
-[![Release]([https://img.shields.io/badge/Release-v1.0-brightgreen](https://img.shields.io/badge/Release-v1.0-brightgreen))]()
+[![R](https://img.shields.io/badge/R-4.5%2B-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/v/release/kaluba-jacob/supply-chain-transition-feasibility-model?label=Release&color=brightgreen&style=flat)](https://github.com/kaluba-jacob/supply-chain-transition-feasibility-model/releases)
+
 
 ## ✨ Features
 - **5-dimension evaluation system**: digital capability, operational efficiency, financial health, environmental pressure, and policy adaptability
